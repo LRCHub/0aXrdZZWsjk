@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Good Morning World!",
+  "base_artist": "BURNOUT SYNDROMES",
+  "createdAt": "2025-12-29T11:23:47.446343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Morning World!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/01_Good_Morning_World!_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Morning World!",
+      "artist": "Dima Lancaster",
+      "has_synced": true,
+      "path": "select/02_Good_Morning_World!_Dima_Lancaster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Morning World",
+      "artist": "Burnout Syndromes (Dr. Stone)",
+      "has_synced": true,
+      "path": "select/03_Good_Morning_World_Burnout_Syndromes_(Dr._Stone).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Morning World! (Dr. Stone)",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/04_Good_Morning_World!_(Dr._Stone)_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Morning World!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/05_Good_Morning_World!_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Morning World",
+      "artist": "Beverley Knight",
+      "has_synced": false,
+      "path": "select/06_Good_Morning_World_Beverley_Knight.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Morning World!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/07_Good_Morning_World!_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Morning World!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/08_Good_Morning_World!_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dr. Stone Opening 1 Full - Good Morning World",
+      "artist": "Rap AR Anime",
+      "has_synced": false,
+      "path": "select/09_Dr._Stone_Opening_1_Full_-_Good_Morning_World_Rap_AR_Anime.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Morning World! (From \"Dr. Stone\")",
+      "artist": "ShiroNeko",
+      "has_synced": false,
+      "path": "select/10_Good_Morning_World!_(From__Dr._Stone_)_ShiroNeko.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Morning World",
+      "artist": "Knight, Beverley",
+      "has_synced": false,
+      "path": "select/11_Good_Morning_World_Knight,_Beverley.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Morning World! (From \"Dr. Stone\")",
+      "artist": "Boy Hero",
+      "has_synced": false,
+      "path": "select/12_Good_Morning_World!_(From__Dr._Stone_)_Boy_Hero.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Morning World",
+      "artist": "Kahimi Karie",
+      "has_synced": false,
+      "path": "select/13_Good_Morning_World_Kahimi_Karie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Morning World (Dr Stone)",
+      "artist": "Matteo Leonetti",
+      "has_synced": false,
+      "path": "select/14_Good_Morning_World_(Dr_Stone)_Matteo_Leonetti.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Morning World!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/15_Good_Morning_World!_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Morning World!",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Morning_World!_BURNOUT_SYNDROMES.txt"
+    }
+  ]
+}
